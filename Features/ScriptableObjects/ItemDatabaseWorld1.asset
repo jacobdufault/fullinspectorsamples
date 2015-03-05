@@ -15,7 +15,4 @@ MonoBehaviour:
   _serializedStateKeys:
   - Items
   _serializedStateValues:
-  - '{"Breastplate":{"$type":"FullInspector.Samples.ItemDatabase.ArmorItem, Assembly-CSharp","Armor":0.96},"Sword":{"$type":"FullInspector.Samples.ItemDatabase.WeaponItem,
-    Assembly-CSharp","Type":0,"AttackStrength":0.96},"Polished Axe":{"$type":"FullInspector.Samples.ItemDatabase.WeaponItem,
-    Assembly-CSharp","Type":1,"AttackStrength":1.5},"Minor Potion":{"$type":"FullInspector.Samples.ItemDatabase.HealthBoostItem,
-    Assembly-CSharp","HealthIncrease":5.0,"Cooldown":10.0}}'
+  - 
