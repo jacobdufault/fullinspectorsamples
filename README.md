@@ -1,3 +1,8 @@
+# NOTE
+These samples have been integrated directly into the [Full Inspector](https://github.com/jacobdufault/fullinspector/) repository. Please find them there.
+
+This repository is deprecated and will no longer be updated.
+
 ## Overview
 
 This repository contains all of the samples for [Full Inspector](jacobdufault.github.io/fullinspector).
